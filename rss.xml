@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Greg Collins]]></title>
         <description><![CDATA[Greg Collins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gregcollins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 18:43:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 18:51:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gregcollins/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3d2784a-1355-4dcc-8891-df857dd1e60d.jpg">]]></description>
+            <link>https://thegrid.ai/gregcollins/00b73b5c-fe53-4dd2-8f20-28475f62723b/index.html</link>
+            <guid isPermaLink="false">00b73b5c-fe53-4dd2-8f20-28475f62723b</guid>
+            <pubDate>Sat, 23 Apr 2016 18:50:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e559bb6-7cda-4f1d-9257-5902300b69c6.jpg">]]></description>
-            <link>undefinedb09c8e02-10de-41ec-a7ac-76dc5ded8322/index.html</link>
+            <link>https://thegrid.ai/gregcollins/b09c8e02-10de-41ec-a7ac-76dc5ded8322/index.html</link>
             <guid isPermaLink="false">b09c8e02-10de-41ec-a7ac-76dc5ded8322</guid>
             <pubDate>Sat, 23 Apr 2016 18:43:51 GMT</pubDate>
         </item>
