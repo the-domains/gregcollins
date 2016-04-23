@@ -1,0 +1,28 @@
+name: Greg Collins
+favicon: null
+layout_spectrum: 0.1583661651238799
+typography_spectrum: 0.2143830822315067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1477865600027144
+  lightness: 0.5571255700197071
+  saturation: 0.79971575550735
+  rhythmicContrast: 0.9810939761810005
+purpose: []
